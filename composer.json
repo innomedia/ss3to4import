@@ -1,10 +1,10 @@
 {
-    "name":"tietge/ss3to4import",
+    "name":"innomedia/ss3to4import",
     "description": "Upgrade Import",
     "authors": [
       {
-        "name":"Tietge GmbH",
-        "email": "info@tietge.com"
+        "name":"Innomedia AG",
+        "email": "bk@innomedia.de"
       }
     ],
     "autoload": {
