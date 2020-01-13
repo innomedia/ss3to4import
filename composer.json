@@ -1,0 +1,16 @@
+{
+    "name":"tietge/import",
+    "description": "Upgrade Import",
+    "authors": [
+      {
+        "name":"Tietge GmbH",
+        "email": "info@tietge.com"
+      }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Import\\": "src/"
+      }
+    }
+  }
+  
